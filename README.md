@@ -1,3 +1,3 @@
 # colorGame
-Guess the RGB color !!
-URL : https://abhivardhan.github.io/colorGame/
+## Guess the RGB color !!
+https://abhivardhan.github.io/colorGame/
